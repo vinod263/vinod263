@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vinod Gayari</h1>
+<h3 align="center">MERN Stack Developer | B.Tech CSE | Open to Job Opportunities</h3>
 
-<!--
-**vinod263/vinod263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔥 About Me
+- 🎓 B.Tech Computer Science & Engineering (GITS Udaipur)
+- 💻 MERN Stack | Full Stack Web Dev | REST APIs
+- 🚀 Projects: ML, Task Manager, Games, Frontend Projects
+- 🌱 Currently preparing for placements
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+React | Node.js | Express | MongoDB | JavaScript | HTML | CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+LinkedIn: (Add your LinkedIn)
+Email: (Your email)
