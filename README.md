@@ -11,5 +11,5 @@
 React | Node.js | Express | MongoDB | JavaScript | HTML | CSS
 
 ### 📫 Connect with me
-LinkedIn: (Add your LinkedIn)
-Email: (Your email)
+LinkedIn: https://www.linkedin.com/in/vinod-gayari-03b20a25a/
+Email: gayarivinod263@gmail.com
